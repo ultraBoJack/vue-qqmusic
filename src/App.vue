@@ -1,8 +1,8 @@
 <template>
   <div id="app" v-cloak>
-    <keep-live>
+    <!-- <keep-live> -->
       <router-view/>
-    </keep-live>
+    <!-- </keep-live> -->
   </div>
 </template>
 

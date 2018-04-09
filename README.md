@@ -10,6 +10,7 @@
 
 >![demo003](./demo/demo3.gif)
 
+>![demo004](./demo/demo4.gif)
 
 ## Build Setup
 

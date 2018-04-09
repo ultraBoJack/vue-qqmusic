@@ -88,7 +88,7 @@
       }
     }
     .album-name, .singer-name{
-      max-width: 90%;
+      max-width: 100%;
       text-overflow:ellipsis;
       white-space:nowrap;
       overflow:hidden;
