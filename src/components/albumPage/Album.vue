@@ -198,8 +198,8 @@ export default {
   .header{
     display: flex;
     flex-direction: column;
-    background: url('https://y.gtimg.cn/mediastyle/yqq/img/bg_singer.jpg');
-    background-size: contain;
+    background: url('../../assets/img/bg_album.jpg');
+    background-size: cover;
     padding: 60px 0;
     h1{
       font-size: 4rem;
