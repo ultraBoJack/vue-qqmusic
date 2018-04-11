@@ -4,13 +4,19 @@
 
 ## 页面展示
 
+### home页
 >![demo001](./demo/demo1.gif)
 
 >![demo002](./demo/demo2.gif)
 
 >![demo003](./demo/demo3.gif)
 
+### singer页
 >![demo004](./demo/demo4.gif)
+
+### album页
+>![demo005](./demo/demo5.gif)
+
 
 ## Build Setup
 
